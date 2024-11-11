@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.head{
+	text-align:left;
+	background-color:indianred;
+	color:white;
+}
+.row2{
+	background-color:lightcoral;
+	color:white;
+}
+.row3{
+	background-color:antiquewhite;
+	color:black;
+}
+.row4{
+	background-color:lightgray;
+	color:black;
+}
+
+
+
